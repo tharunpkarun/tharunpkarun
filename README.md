@@ -21,7 +21,7 @@ I'm a **Founding Engineer & AI Architect** based in **Trivandrum, Kerala, India*
 I specialize in building **high-performance platforms**, leading **cross-functional teams**, and integrating **Human-Centric AI** into production systems.
 
 - 🔭 I’m currently leading engineering teams at **Lifology**, building the next generation of AI coaching with Voice AI & WebRTC.
-- 🌱 I’m currently exploring **Agentic AI workflows**, **Rust**, and **bare-metal infrastructure**.
+- 🌱 I’m currently exploring **Agentic AI workflows**.
 - 💬 Ask me about **System Design**, **GraphQL**, **Next.js**, or how I bypassed my campus firewall.
 - ⚡ Fun fact: I once seized control of a corporate Facebook page during a management dispute.
 
