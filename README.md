@@ -64,26 +64,6 @@ I specialize in building **high-performance platforms**, leading **cross-functio
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=tharunpkarun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="tharunpkarun" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunpkarun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharunpkarun&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
 ## 🗺️ Tech Journey
 
 <table>
