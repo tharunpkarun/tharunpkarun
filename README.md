@@ -64,12 +64,50 @@ I specialize in building **high-performance platforms**, leading **cross-functio
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharunpkarun&show_icons=true&theme=tokyonight&hide_border=true" alt="Tharun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunpkarun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tharunpkarun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="tharunpkarun" />
+  </a>
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunpkarun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunpkarun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 🗺️ Tech Journey
+
+<table>
+  <tr>
+    <td align="center"><b>2010</b></td>
+    <td>💻 Founded <b>Managed Hosting Services</b> (500+ clients)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2015</b></td>
+    <td>✈️ Software Engineer at Enterprise Travel Tech</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2019</b></td>
+    <td>🎓 <b>MCA</b> from College of Engineering Trivandrum</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2021</b></td>
+    <td>🏛️ Architected Government-Scale Career Platform (1M+ Users)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td>🤖 Leading <b>AI Coaching</b> at Lifology with Voice AI & WebRTC</td>
+  </tr>
+</table>
 
 ---
 
