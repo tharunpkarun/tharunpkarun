@@ -68,7 +68,7 @@ I specialize in building **high-performance platforms**, leading **cross-functio
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tharunpkarun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="tharunpkarun" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=tharunpkarun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="tharunpkarun" />
   </a>
 </div>
 
@@ -79,7 +79,7 @@ I specialize in building **high-performance platforms**, leading **cross-functio
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunpkarun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunpkarun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharunpkarun&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
