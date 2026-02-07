@@ -1,9 +1,10 @@
 # Hi there, I'm Tharun P Karun! 👋
 
 <div align="center">
-  <a href="https://tharunpkarun.com">
-    <img src="https://img.shields.io/badge/Portfolio-tharunpkarun.com-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
-  </a>
+  
+  ## 🌐 [tharunpkarun.com](https://www.tharunpkarun.com)
+  <br/>
+
   <a href="https://linkedin.com/in/tharunpkarun">
     <img src="https://img.shields.io/badge/LinkedIn-tharunpkarun-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -66,7 +67,7 @@ I specialize in building **high-performance platforms**, leading **cross-functio
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharunpkarun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tharun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharunpkarun&show_icons=true&theme=tokyonight&hide_border=true" alt="Tharun's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunpkarun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -76,7 +77,7 @@ I specialize in building **high-performance platforms**, leading **cross-functio
 
 <!-- BLOG-POST-LIST:START -->
 <!-- WAITING FOR CONTENT -->
-*Checking out [www.tharunpkarun.com/blog](https://www.tharunpkarun.com/blog) for the latest updates...*
+*Checking out [www.tharunpkarun.com](https://www.tharunpkarun.com/) for the latest updates...*
 <!-- BLOG-POST-LIST:END -->
 
 ---
