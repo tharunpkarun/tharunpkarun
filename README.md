@@ -117,10 +117,3 @@ I specialize in building **high-performance platforms**, leading **cross-functio
 <!-- WAITING FOR CONTENT -->
 *Checking out [www.tharunpkarun.com](https://www.tharunpkarun.com/) for the latest updates...*
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  <p>Visitor Count</p>
-  <img src="https://komarev.com/ghpvc/?username=tharunpkarun&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
