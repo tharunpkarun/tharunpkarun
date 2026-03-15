@@ -23,7 +23,6 @@ I specialize in building **high-performance platforms**, leading **cross-functio
 - 🔭 I’m currently leading engineering teams at **Lifology**, building the next generation of AI coaching with Voice AI & WebRTC.
 - 🌱 I’m currently exploring **Agentic AI workflows**.
 - 💬 Ask me about **System Design**, **GraphQL**, **Next.js**, or how I bypassed my campus firewall.
-- ⚡ Fun fact: I once seized control of a corporate Facebook page during a management dispute.
 
 ---
 
